@@ -239,3 +239,6 @@ This repository serves as the official landing page for Earth Alerts. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Earth Alerts today!**
+
+---
+**Last updated:** 2026-09-07 23:15:42 UTC
