@@ -241,4 +241,4 @@ This repository serves as the official landing page for Earth Alerts. The softwa
 **Get the most recent version of Earth Alerts today!**
 
 ---
-**Last updated:** 2026-10-12 23:27:13 UTC
+**Last updated:** 2026-10-13 05:18:53 UTC
